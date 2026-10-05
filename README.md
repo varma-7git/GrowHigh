@@ -63,3 +63,9 @@ Weekly and cumulative tests are created by faculty, not generated automatically.
  
 - Project tracker: Google Sheets (GrowHigh Project Tracker)
  
+## Git workflow
+
+- `main` holds stable, working code only.
+- `dev` is the branch for daily work. Changes are merged into `main` when they are tested.
+- Commit messages are short and say what changed, for example: `add login page`, `fix test result calculation`.
+- Commit small and often, at least once per working session.
