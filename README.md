@@ -1,4 +1,4 @@
-# GrowHigh
+<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/7dcf5ed7-25b1-4acd-91aa-b4275f4477c3" /># GrowHigh
  
 GrowHigh is a smart web-based platform for diploma students to prepare for ECET, build job-ready skills, explore careers, and find relevant internships and jobs in one place.
  
@@ -63,3 +63,9 @@ Weekly and cumulative tests are created by faculty, not generated automatically.
  
 - Project tracker: Google Sheets (GrowHigh Project Tracker)
  
+## Git workflow
+
+- `main` holds stable, working code only.
+- `dev` is the branch for daily work. Changes are merged into `main` when they are tested.
+- Commit messages are short and say what changed, for example: `add login page`, `fix test result calculation`.
+- Commit small and often, at least once per working session.
