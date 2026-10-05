@@ -1,3 +1,4 @@
+# GrowHigh
 GrowHigh is a smart web-based platform for diploma students to prepare for ECET, build job-ready skills, explore careers, and find relevant internships and jobs in one place.
  
 **Status:** In development | **Deadline:** 24 Oct 2026
