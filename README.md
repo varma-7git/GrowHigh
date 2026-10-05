@@ -1,5 +1,3 @@
-<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/7dcf5ed7-25b1-4acd-91aa-b4275f4477c3" /># GrowHigh
- 
 GrowHigh is a smart web-based platform for diploma students to prepare for ECET, build job-ready skills, explore careers, and find relevant internships and jobs in one place.
  
 **Status:** In development | **Deadline:** 24 Oct 2026
