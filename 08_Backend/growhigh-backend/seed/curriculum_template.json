@@ -1,0 +1,10 @@
+{
+  "regulation": "C23",
+  "branch": "CSE",
+  "semesters": {
+    "1": [
+      { "name": "REPLACE with the real subject name", "code": "", "marks": 100, "topics": ["REPLACE with topic 1", "REPLACE with topic 2"] }
+    ],
+    "2": [], "3": [], "4": [], "5": [], "6": []
+  }
+}

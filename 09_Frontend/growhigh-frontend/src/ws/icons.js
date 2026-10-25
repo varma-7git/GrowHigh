@@ -1,0 +1,23 @@
+const P = {
+  dashboard: "M3 3h7v9H3zM14 3h7v5h-7zM14 12h7v9h-7zM3 16h7v5H3z",
+  ecet: "M2 9l10-5 10 5-10 5zM6 11.5V16c0 1.5 3 3 6 3s6-1.5 6-3v-4.5M22 9v6",
+  code: "M8 6l-6 6 6 6M16 6l6 6-6 6",
+  trend: "M3 17l6-6 4 4 8-8M15 7h6v6",
+  chat: "M21 12a8 8 0 01-11.6 7.1L4 20l1-4.6A8 8 0 1121 12z",
+  jobs: "M3 8h18v12H3zM8 8V5a1 1 0 011-1h6a1 1 0 011 1v3M3 13h18",
+  files: "M8 3h9l4 4v12a1 1 0 01-1 1H8a1 1 0 01-1-1V4a1 1 0 011-1zM4 7v13a1 1 0 001 1h11",
+  user: "M12 12a4 4 0 100-8 4 4 0 000 8zM4 21c0-4 3.6-7 8-7s8 3 8 7",
+  qbank: "M4 4v16M8 4v16M12 6l5 14M20 5l-3 1",
+  calendar: "M4 6h16v14H4zM4 10h16M8 3v4M16 3v4M12 13v4M10 15h4",
+  send: "M22 2L11 13M22 2l-7 20-4-9-9-4z",
+  bars: "M6 20V10M12 20V4M18 20v-7",
+  users: "M9 11a4 4 0 100-8 4 4 0 000 8zM2 21c0-4 3-7 7-7s7 3 7 7M17 4a3.5 3.5 0 010 7M22 21c0-3-2-5.5-5-6.5",
+  search: "M11 19a8 8 0 100-16 8 8 0 000 16zM21 21l-4.3-4.3",
+  bell: "M6 8a6 6 0 1112 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.9 1.9 0 003.4 0",
+  book: "M2 4h7a3 3 0 013 3v13a2 2 0 00-2-2H2zM22 4h-7a3 3 0 00-3 3v13a2 2 0 012-2h8z",
+  menu: "M4 6h16M4 12h16M4 18h16",
+  check: "M5 12l5 5 9-10",
+  lock: "M6 11h12v9H6zM8 11V8a4 4 0 018 0v3",
+  mark: "M6 3h12v18l-6-4-6 4z",
+};
+export const Ic = ({ n }) => <svg viewBox="0 0 24 24" aria-hidden="true"><path d={P[n]} /></svg>;

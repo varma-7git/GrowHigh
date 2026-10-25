@@ -1,0 +1,325 @@
+{
+ "exam": {
+  "name": "AP ECET",
+  "mode": "CBT",
+  "questions": 200,
+  "marks": 200,
+  "duration_minutes": 180,
+  "negative_marking": false,
+  "split": {
+   "Mathematics": 50,
+   "Physics": 25,
+   "Chemistry": 25,
+   "Branch paper": 100
+  },
+  "official_site": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx"
+ },
+ "subjects": [
+  {
+   "name": "Mathematics",
+   "marks": 50,
+   "topics": [
+    "Matrices",
+    "Partial fractions",
+    "Trigonometry",
+    "Complex numbers",
+    "Analytical geometry",
+    "Differentiation and its applications",
+    "Integration and its applications",
+    "Differential equations"
+   ],
+   "source": "AP ECET 2026 syllabus (diploma curriculum)"
+  },
+  {
+   "name": "Physics",
+   "marks": 25,
+   "topics": [
+    "Units and dimensions",
+    "Elements of vectors",
+    "Kinematics and friction",
+    "Work, power and energy",
+    "Simple harmonic motion and acoustics",
+    "Heat and thermodynamics",
+    "Modern physics"
+   ],
+   "source": "AP ECET 2026 syllabus (diploma curriculum)"
+  },
+  {
+   "name": "Chemistry",
+   "marks": 25,
+   "topics": [
+    "Atomic structure",
+    "Chemical bonding",
+    "Solutions",
+    "Acids and bases",
+    "Electrochemistry",
+    "Water technology",
+    "Corrosion",
+    "Polymers",
+    "Fuels",
+    "Environmental chemistry"
+   ],
+   "source": "AP ECET 2026 syllabus (diploma curriculum)"
+  }
+ ],
+ "cse_c23_subjects_approx_marks": [
+  {
+   "name": "Digital Electronics",
+   "marks": 8
+  },
+  {
+   "name": "Software Engineering",
+   "marks": 8
+  },
+  {
+   "name": "Computer Organization and Microprocessors",
+   "marks": 12
+  },
+  {
+   "name": "Data Structures with C",
+   "marks": 10
+  },
+  {
+   "name": "Computer Networks",
+   "marks": 12
+  },
+  {
+   "name": "Operating Systems",
+   "marks": 12
+  },
+  {
+   "name": "Database Management Systems",
+   "marks": 10
+  },
+  {
+   "name": "Object-Oriented Programming using C++",
+   "marks": 10
+  },
+  {
+   "name": "Java Programming and Web Technologies",
+   "marks": 8
+  }
+ ],
+ "branches": [
+  "Ceramic Technology",
+  "Chemical Engineering",
+  "Civil Engineering",
+  "Computer Science and Engineering",
+  "Electrical and Electronics Engineering",
+  "Electronics and Communication Engineering",
+  "Electronics and Instrumentation",
+  "Mechanical Engineering",
+  "Metallurgical Engineering",
+  "Mining Engineering",
+  "Pharmacy",
+  "Agricultural Engineering",
+  "BioTechnology",
+  "B.Sc Mathematics"
+ ],
+ "papers_by_year": [
+  {
+   "year": 2025,
+   "url": "https://admission.aglasem.com/ap-ecet-2025-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2024,
+   "url": "https://admission.aglasem.com/ap-ecet-2024-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2023,
+   "url": "https://admission.aglasem.com/ap-ecet-2023-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2022,
+   "url": "https://admission.aglasem.com/ap-ecet-2022-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2021,
+   "url": "https://admission.aglasem.com/ap-ecet-2021-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2020,
+   "url": "https://admission.aglasem.com/ap-ecet-2020-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2019,
+   "url": "https://admission.aglasem.com/ap-ecet-2019-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2018,
+   "url": "https://admission.aglasem.com/ap-ecet-2018-question-paper/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2017,
+   "url": "https://www.indcareer.com/en/ap-ecet-question-papers/",
+   "source": "IndCareer, branch-wise list",
+   "status": "available"
+  },
+  {
+   "year": 2016,
+   "url": "https://www.indcareer.com/en/ap-ecet-question-papers/",
+   "source": "IndCareer, branch-wise list",
+   "status": "available"
+  },
+  {
+   "year": 2015,
+   "url": "https://www.indcareer.com/en/ap-ecet-question-papers/",
+   "source": "IndCareer, branch-wise list",
+   "status": "available"
+  },
+  {
+   "year": 2014,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2013,
+   "url": "https://admission.aglasem.com/ecet-2013-question-papers/",
+   "source": "AglaSem year page",
+   "status": "available"
+  },
+  {
+   "year": 2012,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2011,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2010,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2009,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2008,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2007,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2006,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2005,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  },
+  {
+   "year": 2004,
+   "url": "https://cets.apsche.ap.gov.in/ECET/ECET/ECET_HomePage.aspx",
+   "source": "Not found online. Check the official APSCHE site",
+   "status": "not_found"
+  }
+ ],
+ "papers_2025_by_branch": [
+  {
+   "branch": "Ceramic Technology",
+   "view": "https://docs.aglasem.com/view/be77c828-37c8-11f0-a6e5-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/be77c828-37c8-11f0-a6e5-0a5e36bc6706"
+  },
+  {
+   "branch": "Chemical Engineering",
+   "view": "https://docs.aglasem.com/view/be815f32-37c8-11f0-b8f7-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/be815f32-37c8-11f0-b8f7-0a5e36bc6706"
+  },
+  {
+   "branch": "Civil Engineering",
+   "view": "https://docs.aglasem.com/view/c1518890-37c8-11f0-9ee2-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c1518890-37c8-11f0-9ee2-0a5e36bc6706"
+  },
+  {
+   "branch": "Computer Science and Engineering",
+   "view": "https://docs.aglasem.com/view/c14f41ac-37c8-11f0-9bbd-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c14f41ac-37c8-11f0-9bbd-0a5e36bc6706"
+  },
+  {
+   "branch": "Electrical and Electronics Engineering",
+   "view": "https://docs.aglasem.com/view/c1fbc4e0-37c8-11f0-8cf5-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c1fbc4e0-37c8-11f0-8cf5-0a5e36bc6706"
+  },
+  {
+   "branch": "Electronics and Communication Engineering",
+   "view": "https://docs.aglasem.com/view/c1fecc12-37c8-11f0-816b-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c1fecc12-37c8-11f0-816b-0a5e36bc6706"
+  },
+  {
+   "branch": "Electronics and Instrumentation",
+   "view": "https://docs.aglasem.com/view/c2000744-37c8-11f0-840e-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c2000744-37c8-11f0-840e-0a5e36bc6706"
+  },
+  {
+   "branch": "Mechanical Engineering",
+   "view": "https://docs.aglasem.com/view/c3a706c4-37c8-11f0-bc30-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c3a706c4-37c8-11f0-bc30-0a5e36bc6706"
+  },
+  {
+   "branch": "Metallurgical Engineering",
+   "view": "https://docs.aglasem.com/view/c3a7098a-37c8-11f0-ab17-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c3a7098a-37c8-11f0-ab17-0a5e36bc6706"
+  },
+  {
+   "branch": "Mining Engineering",
+   "view": "https://docs.aglasem.com/view/c4e32fd6-37c8-11f0-a114-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c4e32fd6-37c8-11f0-a114-0a5e36bc6706"
+  },
+  {
+   "branch": "Pharmacy",
+   "view": "https://docs.aglasem.com/view/c4e1f5da-37c8-11f0-9350-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/c4e1f5da-37c8-11f0-9350-0a5e36bc6706"
+  },
+  {
+   "branch": "Agricultural Engineering",
+   "view": "https://docs.aglasem.com/view/be77cc2e-37c8-11f0-bbb7-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/be77cc2e-37c8-11f0-bbb7-0a5e36bc6706"
+  },
+  {
+   "branch": "BioTechnology",
+   "view": "https://docs.aglasem.com/view/be92450e-37c8-11f0-82a0-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/be92450e-37c8-11f0-82a0-0a5e36bc6706"
+  },
+  {
+   "branch": "B.Sc Mathematics",
+   "view": "https://docs.aglasem.com/view/be7e7286-37c8-11f0-bdbe-0a5e36bc6706",
+   "download": "https://docs.aglasem.com/product/single-doc-download/be7e7286-37c8-11f0-bdbe-0a5e36bc6706"
+  }
+ ]
+}
